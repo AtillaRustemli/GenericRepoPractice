@@ -1,0 +1,14 @@
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\bin\Debug\net6.0\GenericRepositoryPractice.Domain.deps.json
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\bin\Debug\net6.0\GenericRepositoryPractice.Domain.dll
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\bin\Debug\net6.0\GenericRepositoryPractice.Domain.pdb
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\obj\Debug\net6.0\GenericRepositoryPractice.Domain.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\obj\Debug\net6.0\GenericRepositoryPractice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\obj\Debug\net6.0\GenericRepositoryPractice.Domain.AssemblyInfoInputs.cache
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\obj\Debug\net6.0\GenericRepositoryPractice.Domain.AssemblyInfo.cs
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\obj\Debug\net6.0\GenericRepositoryPractice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\obj\Debug\net6.0\GenericRepositoryPractice.Domain.dll
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\obj\Debug\net6.0\refint\GenericRepositoryPractice.Domain.dll
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\obj\Debug\net6.0\GenericRepositoryPractice.Domain.pdb
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\obj\Debug\net6.0\ref\GenericRepositoryPractice.Domain.dll
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\bin\Debug\net6.0\GenericRepositoryPractice.Domain.runtimeconfig.json
+C:\Users\MSI\OneDrive\Desktop\API\GenericRepositoryPractice\GenericRepositoryPractice.Domain\obj\Debug\net6.0\GenericRepositoryPractice.Domain.genruntimeconfig.cache
